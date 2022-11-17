@@ -1,0 +1,10 @@
+.vs/
+Binaries/
+Content/Collections/
+Content/Developers/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+Spacewar.sln
+Spacewar.uproject
